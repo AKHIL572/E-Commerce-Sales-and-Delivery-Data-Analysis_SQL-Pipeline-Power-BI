@@ -1,4 +1,4 @@
-# 🛒 Brazilian E-Commerce Analysis — Olist Dataset
+# 🛒 E-Commerce Sales & Delivery Data Analysis: SQL Pipeline & Power BI
 
 📖 [Data Dictionary](docs/DATA_DICTIONARY.md) — 
 Detailed description of all tables, 
